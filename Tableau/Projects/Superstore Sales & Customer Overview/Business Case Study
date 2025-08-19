@@ -1,0 +1,48 @@
+Tableau Project Requirements: Global Superstore Dataset
+Objective:
+Create two interactive dashboards that allow users to analyze and explore various aspects of global sales performance. The dashboards should be connected with a navigation feature that enables seamless movement between them. The project should include the creation of insightful visualizations and comprehensive analysis, focusing on different layers of information.
+________________________________________
+Dashboard 1: Sales and Profit Overview
+Key Performance Indicators (KPIs):
+1.	Display total sales, total profit, total quantity sold, and average discount across the entire dataset.
+2.	Compare sales and profit by region (Country/State/City).
+Geographical Analysis:
+1.	Create a map view that shows sales performance by region. Color-code regions by total sales or profit.
+2.	
+Product and Category Analysis:
+1.	Visualize sales and profit by Product Category and Sub-Category.
+2.	Create bar charts or treemaps to display the top-selling products within each category.
+3.	
+Time-Based Analysis:
+1.	Create a time series analysis that shows how sales and profit fluctuate over time (monthly/quarterly/yearly).
+2.	Include a dynamic filter that allows users to select different time frames.
+Filters and Interactivity:
+1.	Include filter options for Ship Mode, Order Priority, and Customer Segment.
+2.	Allow users to drill down into specific regions or cities to analyze their performance.
+________________________________________
+Dashboard 2: Customer and Order Insights
+Customer Segmentation:
+1.	Display sales and profit by Customer Segment (e.g., Consumer, Corporate, Home Office).
+2.	Show the top 10 customers by sales and profit in a table or bar chart.
+Order Details:
+1.	Create a detailed table that shows information for individual orders: Order ID, Customer Name, Product Name, Sales, Profit, Discount, and Shipping Cost.
+2.	Add sorting and filtering capabilities to allow users to focus on specific orders, such as those with the highest profit or discount.
+Shipping Analysis:
+1.	Display sales and profit by Ship Mode, visualizing which ship modes are most effective in terms of sales and profit.
+2.	Provide insights into shipping costs and their relationship with sales and profit.
+Customer Behavior:
+1.	Create a scatter plot to show the relationship between Discount and Profit for different customers or products.
+2.	Use color coding to differentiate between high and low-performing customers or products.
+Filters and Interactivity:
+1.	 Allow users to filter the dashboard by region, product category, and customer segment.
+2.	Include a navigation button or action that allows users to switch to Dashboard 1.
+________________________________________
+Navigation:
+•	Ensure there is a clear and intuitive way to navigate between both dashboards, either via a button, dropdown, or clickable action.
+•	Provide a dynamic filter that links both dashboards, so selections made in one dashboard are reflected in the other.
+________________________________________
+Overall Requirements:
+•	The project should include a balance of visualizations, allowing the user to see high-level trends as well as drill down into detailed views.
+•	Ensure that the dashboards are responsive and interactive, offering a rich user experience with easy navigation and exploration.
+•	Use appropriate visualizations for different data types (e.g., maps, bar charts, scatter plots, tables, and filters).
+
